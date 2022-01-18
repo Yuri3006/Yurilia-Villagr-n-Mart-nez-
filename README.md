@@ -14,4 +14,4 @@ Este repositorio es para que los alumnos de servicio social del Laboratorio de S
 * Haz un Commit a github para que la carpeta se vea reflejada en el servidor
 * Listo. Ya puedes trabajar dentro de tu carpeta local y hacer commits cada vez que desees actualizar el repositorio.
 
-Si tienes dudas pregunta el personal del laboratorio.
+Si tienes dudas pregunta al personal del laboratorio.
