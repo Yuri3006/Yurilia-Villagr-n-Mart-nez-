@@ -3,7 +3,7 @@
 
 ## Introducción
 
-Este repositorio es para que los alumnos de servicios social del Laboratorio de Semántica Computacional puedan crear carpetas con su nombre y subir ahí sus entregables de trabajo.
+Este repositorio es para que los alumnos de servicio social del Laboratorio de Semántica Computacional puedan crear carpetas con su nombre y subir ahí sus entregables de trabajo.
 
 ## Instrucciones
 
